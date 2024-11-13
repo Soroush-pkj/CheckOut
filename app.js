@@ -1,3 +1,4 @@
+// this project develop the cart bascket feature
 const productsDom = document.querySelector('.theme-section');
 const qtySection = document.querySelector('.qty');
 const totalPriceSection = document.querySelector('.total-price');
