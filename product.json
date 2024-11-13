@@ -1,0 +1,743 @@
+[
+    {
+        "id": 183,
+        "name": "RK color treated hair care shampoo",
+        "slug": "rk-color-treated-hair-care-shampoo",
+        "permalink": "https:\/\/rkbeauty.it\/product\/rk-color-treated-hair-care-shampoo\/",
+        "date_created": "2024-02-12T12:22:00",
+        "date_created_gmt": "2024-02-12T12:22:00",
+        "date_modified": "2024-10-30T13:49:29",
+        "date_modified_gmt": "2024-10-30T13:49:29",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>For colored, mesh and bleached hair, volume 200 ml<\/p>\n<p>*Preventing frizz, roughness, knots, frizziness and increasing combability of hair<br \/>\n*Preventing damage caused by absorption of UV rays<br \/>\n*Preventing bleaching of dyed and bleached hair<br \/>\n*Strengthening and repairing and increasing the strength of damaged hair stem caused by hair color<br \/>\n* Helping to relieve itching and burning of the scalp caused by hair color<br \/>\n* Anti-inflammatory and healing<br \/>\n* Antioxidant<br \/>\n*Increasing capillary blood flow and thus strengthening hair roots<br \/>\n* Contains hydrolyzed wheat and silk protein<br \/>\n* Free of sulfate and salt, with mild washing power<\/p>\n",
+        "short_description": "<p>For colored, mesh and bleached hair, volume 200 ml<\/p>\n<p>*Preventing frizz, roughness, knots, frizziness and increasing combability of hair<br \/>\n*Preventing damage caused by absorption of UV rays<br \/>\n*Preventing bleaching of dyed and bleached hair<br \/>\n*Strengthening and repairing and increasing the strength of damaged hair stem caused by hair color<br \/>\n* Helping to relieve itching and burning of the scalp caused by hair color<br \/>\n* Anti-inflammatory and healing<br \/>\n* Antioxidant<br \/>\n*Increasing capillary blood flow and thus strengthening hair roots<br \/>\n* Contains hydrolyzed wheat and silk protein<br \/>\n* Free of sulfate and salt, with mild washing power<\/p>\n",
+        "sku": "54768768",
+        "price": "140",
+        "regular_price": "180",
+        "sale_price": "140",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "1",
+        "dimensions": {
+            "length": "12",
+            "width": "45",
+            "height": "65"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 51,
+                "name": "hair care",
+                "slug": "hair-care"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 966,
+                "date_created": "2024-10-30T13:47:49",
+                "date_created_gmt": "2024-10-30T13:47:49",
+                "date_modified": "2024-10-30T13:47:49",
+                "date_modified_gmt": "2024-10-30T13:47:49",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/119.webp",
+                "name": "119",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Color",
+                "slug": "Color",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Red",
+                    "White",
+                    "Yellow",
+                    "Gray"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>180.00<\/bdi><\/span><\/del> <span class=\"screen-reader-text\">Il prezzo originale era: &#036;180.00.<\/span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>140.00<\/bdi><\/span><\/ins><span class=\"screen-reader-text\">Il prezzo attuale \u00e8: &#036;140.00.<\/span>",
+        "related_ids": [
+            181,
+            180,
+            182
+        ],
+        "meta_data": [
+            {
+                "id": 2055,
+                "key": "_wp_desired_post_slug",
+                "value": ""
+            },
+            {
+                "id": 2082,
+                "key": "_wpr_demo_import_item",
+                "value": "1"
+            },
+            {
+                "id": 2431,
+                "key": "wpr_secondary_image_id",
+                "value": "0"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "global_unique_id": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products\/183"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 182,
+        "name": "RK shampoo suitable for greasy hair",
+        "slug": "nora-pack-of-3-pearl-and-lariat-mixed-necklace",
+        "permalink": "https:\/\/rkbeauty.it\/product\/nora-pack-of-3-pearl-and-lariat-mixed-necklace\/",
+        "date_created": "2024-02-12T12:21:07",
+        "date_created_gmt": "2024-02-12T12:21:07",
+        "date_modified": "2024-10-30T13:50:04",
+        "date_modified_gmt": "2024-10-30T13:50:04",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Balance skin and hair oil<\/p>\n<p>*Suitable for oily hair and scalp<br \/>\n*Decrease in 5 alpha reductase enzyme activity<br \/>\n*Decreasing the activity of scalp sebaceous glands<br \/>\n*Suitable for daily and continuous use<br \/>\n* Increasing capillary blood flow around hair follicles<br \/>\n*Strengthening and stimulating hair growth<br \/>\n* Eliminates scalp inflammation and itching<br \/>\n* Contains green tea extract and salicylic acid<\/p>\n",
+        "short_description": "<p>Left till here away at to whom past. Feelings laughing at no wondered repeated provided finished. It acceptance thoroughly my advantages everything as. Are projecting inquietude affronting preference saw who. Marry of am do avoid ample as. Old disposal followed she ignorant desirous two has. Called played entire roused though for one too. He into walk roof made tall cold he. Feelings way likewise addition wandered contempt bed indulged.<\/p>\n",
+        "sku": "6867957",
+        "price": "400",
+        "regular_price": "700",
+        "sale_price": "400",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "1",
+        "dimensions": {
+            "length": "12",
+            "width": "45",
+            "height": "65"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 51,
+                "name": "hair care",
+                "slug": "hair-care"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 965,
+                "date_created": "2024-10-30T13:47:46",
+                "date_created_gmt": "2024-10-30T13:47:46",
+                "date_modified": "2024-10-30T13:47:46",
+                "date_modified_gmt": "2024-10-30T13:47:46",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/118.webp",
+                "name": "118",
+                "alt": ""
+            },
+            {
+                "id": 800,
+                "date_created": "2024-10-21T07:43:49",
+                "date_created_gmt": "2024-10-21T07:43:49",
+                "date_modified": "2024-10-21T07:43:49",
+                "date_modified_gmt": "2024-10-21T07:43:49",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/1331-scaled.webp",
+                "name": "1331",
+                "alt": ""
+            },
+            {
+                "id": 799,
+                "date_created": "2024-10-21T07:43:35",
+                "date_created_gmt": "2024-10-21T07:43:35",
+                "date_modified": "2024-10-21T07:43:35",
+                "date_modified_gmt": "2024-10-21T07:43:35",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/1212-scaled.webp",
+                "name": "1212",
+                "alt": ""
+            },
+            {
+                "id": 798,
+                "date_created": "2024-10-21T07:41:54",
+                "date_created_gmt": "2024-10-21T07:41:54",
+                "date_modified": "2024-10-21T07:41:54",
+                "date_modified_gmt": "2024-10-21T07:41:54",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/DSC1048.webp",
+                "name": "_DSC1048",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Color",
+                "slug": "Color",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Red",
+                    "White",
+                    "Yellow",
+                    "Gray"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>700.00<\/bdi><\/span><\/del> <span class=\"screen-reader-text\">Il prezzo originale era: &#036;700.00.<\/span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>400.00<\/bdi><\/span><\/ins><span class=\"screen-reader-text\">Il prezzo attuale \u00e8: &#036;400.00.<\/span>",
+        "related_ids": [
+            183,
+            181,
+            180
+        ],
+        "meta_data": [
+            {
+                "id": 2054,
+                "key": "_wpr_demo_import_item",
+                "value": "1"
+            },
+            {
+                "id": 2382,
+                "key": "wpr_secondary_image_id",
+                "value": "0"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "global_unique_id": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products\/182"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 181,
+        "name": "RK hair strengthening shampoo",
+        "slug": "rk-hair-strengthening-shampoo",
+        "permalink": "https:\/\/rkbeauty.it\/product\/rk-hair-strengthening-shampoo\/",
+        "date_created": "2024-02-12T12:17:45",
+        "date_created_gmt": "2024-02-12T12:17:45",
+        "date_modified": "2024-10-30T13:48:08",
+        "date_modified_gmt": "2024-10-30T13:48:08",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Anti-falling and hair follicle booster 200 ml<\/p>\n<p>* Inhibition of 5 alpha reductase enzyme as a result of controlling fat secretion by trichogen and caffeine<br \/>\n* Strong energizer to hair roots by caffeine<br \/>\n* Increasing capillary blood flow and hair growth, reducing scalp inflammation<br \/>\n* Protection and repair of damaged hair<br \/>\n*Strengthening and increasing the thickness of the hair shaft<br \/>\n*Supply of vitamins and nutrition of hair roots and stems by Sapt oil<br \/>\n* Moisturizing, regulation of secretion and removal of excess fat<br \/>\n*Suitable for all types of hair<br \/>\n*No sulfate<\/p>\n",
+        "short_description": "<p>Anti-falling and hair follicle booster 200 ml<\/p>\n<p>* Inhibition of 5 alpha reductase enzyme as a result of controlling fat secretion by trichogen and caffeine<br \/>\n* Strong energizer to hair roots by caffeine<br \/>\n* Increasing capillary blood flow and hair growth, reducing scalp inflammation<br \/>\n* Protection and repair of damaged hair<br \/>\n*Strengthening and increasing the thickness of the hair shaft<br \/>\n*Supply of vitamins and nutrition of hair roots and stems by Sapt oil<br \/>\n* Moisturizing, regulation of secretion and removal of excess fat<br \/>\n*Suitable for all types of hair<br \/>\n*No sulfate<\/p>\n",
+        "sku": "65879879",
+        "price": "250",
+        "regular_price": "250",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "1",
+        "dimensions": {
+            "length": "12",
+            "width": "45",
+            "height": "65"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 51,
+                "name": "hair care",
+                "slug": "hair-care"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 963,
+                "date_created": "2024-10-30T13:47:39",
+                "date_created_gmt": "2024-10-30T13:47:39",
+                "date_modified": "2024-10-30T13:47:39",
+                "date_modified_gmt": "2024-10-30T13:47:39",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/116.webp",
+                "name": "116",
+                "alt": ""
+            },
+            {
+                "id": 803,
+                "date_created": "2024-10-21T08:05:04",
+                "date_created_gmt": "2024-10-21T08:05:04",
+                "date_modified": "2024-10-21T08:05:04",
+                "date_modified_gmt": "2024-10-21T08:05:04",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/234-scaled.webp",
+                "name": "234",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Color",
+                "slug": "Color",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Red",
+                    "White",
+                    "Yellow",
+                    "Gray"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>250.00<\/bdi><\/span>",
+        "related_ids": [
+            183,
+            180,
+            182
+        ],
+        "meta_data": [
+            {
+                "id": 2027,
+                "key": "_wpr_demo_import_item",
+                "value": "1"
+            },
+            {
+                "id": 2439,
+                "key": "wpr_secondary_image_id",
+                "value": "0"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "global_unique_id": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products\/181"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 180,
+        "name": "RK anti-dandruff shampoo",
+        "slug": "rk-anti-dandruff-shampoo",
+        "permalink": "https:\/\/rkbeauty.it\/product\/rk-anti-dandruff-shampoo\/",
+        "date_created": "2024-02-12T12:17:09",
+        "date_created_gmt": "2024-02-12T12:17:09",
+        "date_modified": "2024-10-30T14:02:20",
+        "date_modified_gmt": "2024-10-30T14:02:20",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Suitable for treating all types of dandruff, volume 200 mg<br \/>\n* Contains active antifungal piroctone olamine<br \/>\n* Anti-dandruff, anti-itching, anti-redness and anti-inflammatory<br \/>\n* Cleansing and washing the hair completely<br \/>\n* Adjusting the pH of the scalp<br \/>\n*Increasing capillary blood circulation and as a result strengthening hair roots due to the presence of nettle<br \/>\n* Control of scalp fat<br \/>\n*Strengthening and anti-hair loss<br \/>\n* Free of sulfates and parabens<br \/>\n*Suitable for all types of hair<br \/>\n* Hydrating hair and scalp<\/p>\n",
+        "short_description": "<p>Suitable for treating all types of dandruff, volume 200 mg<br \/>\n* Contains active antifungal piroctone olamine<br \/>\n* Anti-dandruff, anti-itching, anti-redness and anti-inflammatory<br \/>\n* Cleansing and washing the hair completely<br \/>\n* Adjusting the pH of the scalp<br \/>\n*Increasing capillary blood circulation and as a result strengthening hair roots due to the presence of nettle<br \/>\n* Control of scalp fat<br \/>\n*Strengthening and anti-hair loss<br \/>\n* Free of sulfates and parabens<br \/>\n*Suitable for all types of hair<br \/>\n* Hydrating hair and scalp<\/p>\n",
+        "sku": "5475788",
+        "price": "50",
+        "regular_price": "50",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "1",
+        "dimensions": {
+            "length": "12",
+            "width": "45",
+            "height": "65"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 51,
+                "name": "hair care",
+                "slug": "hair-care"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 969,
+                "date_created": "2024-10-30T14:02:14",
+                "date_created_gmt": "2024-10-30T14:02:14",
+                "date_modified": "2024-10-30T14:02:14",
+                "date_modified_gmt": "2024-10-30T14:02:14",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/121.webp",
+                "name": "121",
+                "alt": ""
+            },
+            {
+                "id": 810,
+                "date_created": "2024-10-21T08:18:38",
+                "date_created_gmt": "2024-10-21T08:18:38",
+                "date_modified": "2024-10-21T08:18:38",
+                "date_modified_gmt": "2024-10-21T08:18:38",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/545-scaled.webp",
+                "name": "545",
+                "alt": ""
+            },
+            {
+                "id": 779,
+                "date_created": "2024-10-20T09:19:25",
+                "date_created_gmt": "2024-10-20T09:19:25",
+                "date_modified": "2024-10-20T09:19:25",
+                "date_modified_gmt": "2024-10-20T09:19:25",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/10\/photo_5787355499946165275_y.jpg",
+                "name": "photo_5787355499946165275_y",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Color",
+                "slug": "Color",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Red",
+                    "White",
+                    "Yellow",
+                    "Gray"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>50.00<\/bdi><\/span>",
+        "related_ids": [
+            181,
+            182,
+            183
+        ],
+        "meta_data": [
+            {
+                "id": 2001,
+                "key": "_wpr_demo_import_item",
+                "value": "1"
+            },
+            {
+                "id": 2490,
+                "key": "wpr_secondary_image_id",
+                "value": "0"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "global_unique_id": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products\/180"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 179,
+        "name": "RK shampoo suitable for dry hair",
+        "slug": "rk-shampoo-suitable-for-dry-hair",
+        "permalink": "https:\/\/rkbeauty.it\/product\/rk-shampoo-suitable-for-dry-hair\/",
+        "date_created": "2024-02-12T12:15:53",
+        "date_created_gmt": "2024-02-12T12:15:53",
+        "date_modified": "2024-10-30T13:53:35",
+        "date_modified_gmt": "2024-10-30T13:53:35",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>For dry and damaged hair, volume 200 ml<\/p>\n<p>*Strengthening and repairing and increasing the strength of the damaged hair shaft<br \/>\n* Moisturizer, softener<br \/>\n* Preventing frizz, roughness, knots, split ends and increasing combability of hair<br \/>\n*Increasing capillary blood flow and thus strengthening hair roots<br \/>\n* Anti-inflammatory and healing<br \/>\n* Helping to relieve scalp itching and burning caused by dryness<br \/>\n*Without sulfate and salt, with mild washing power<br \/>\n* Contains hydrolyzed wheat and silk protein<\/p>\n",
+        "short_description": "<p>For dry and damaged hair, volume 200 ml<\/p>\n<p>*Strengthening and repairing and increasing the strength of the damaged hair shaft<br \/>\n* Moisturizer, softener<br \/>\n* Preventing frizz, roughness, knots, split ends and increasing combability of hair<br \/>\n*Increasing capillary blood flow and thus strengthening hair roots<br \/>\n* Anti-inflammatory and healing<br \/>\n* Helping to relieve scalp itching and burning caused by dryness<br \/>\n*Without sulfate and salt, with mild washing power<br \/>\n* Contains hydrolyzed wheat and silk protein<\/p>\n",
+        "sku": "7679770",
+        "price": "25",
+        "regular_price": "25",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "1",
+        "dimensions": {
+            "length": "12",
+            "width": "45",
+            "height": "65"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 52,
+                "name": "skin care",
+                "slug": "skin-care"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 967,
+                "date_created": "2024-10-30T13:47:52",
+                "date_created_gmt": "2024-10-30T13:47:52",
+                "date_modified": "2024-10-30T13:47:52",
+                "date_modified_gmt": "2024-10-30T13:47:52",
+                "src": "https:\/\/rkbeauty.it\/wp-content\/uploads\/2024\/02\/120.webp",
+                "name": "120",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Color",
+                "slug": "Color",
+                "position": 0,
+                "visible": true,
+                "variation": false,
+                "options": [
+                    "Red",
+                    "White",
+                    "Yellow",
+                    "Gray"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>25.00<\/bdi><\/span>",
+        "related_ids": [],
+        "meta_data": [
+            {
+                "id": 1973,
+                "key": "_oembed_b1de7fe983e4556df7bd0b4daa235b0e",
+                "value": "<iframe title=\"Maison Margiela x Gentle Monster 3D PRODUCT\" width=\"960\" height=\"540\" src=\"https:\/\/www.youtube.com\/embed\/CpWMtwy38uI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>"
+            },
+            {
+                "id": 1974,
+                "key": "_oembed_time_b1de7fe983e4556df7bd0b4daa235b0e",
+                "value": "1708255794"
+            },
+            {
+                "id": 1975,
+                "key": "_wpr_demo_import_item",
+                "value": "1"
+            },
+            {
+                "id": 2496,
+                "key": "wpr_secondary_image_id",
+                "value": "0"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "global_unique_id": "",
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products\/179"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/rkbeauty.it\/wp-json\/wc\/v3\/products"
+                }
+            ]
+        }
+    }
+]
